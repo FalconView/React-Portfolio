@@ -8,7 +8,7 @@ const About = () => {
       <div id="about-wrapper">
         <img
           id="portrait"
-          src="https://i.postimg.cc/GpmM64q1/My-project.jpg"
+          src="https://i.postimg.cc/T1SP0ZkD/My-project.jpg"
           alt="Portrait of Feroz"
         />
         <div id="about-inner-wrapper">
