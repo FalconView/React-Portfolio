@@ -512,7 +512,7 @@ nav p {
 form button {
   font-size: 18px;
   color: #1d3557;
-  background-color: #96eef1;
+  background-color: #bafbfd;
   border: none;
   cursor: pointer;
   height: 50px;
@@ -522,11 +522,11 @@ form button {
 }
 
 form button:hover {
-  background-color: #b2e9eb;
+  background-color: #bafbfb;
 }
 
 form button:active {
-  background-color: #a8dadc;
+  background-color: #bafbfb;
 }
 
 .form-inner-container input::placeholder,
@@ -540,7 +540,7 @@ form button:active {
 .form-inner-container textarea,
 .form-inner-container input[type="email"] {
   font-size: 18px;
-  background-color: #a8dadc;
+  background-color: #bafbfd;
   border: 2px solid transparent;
   padding-left: 20px;
   border-radius: 5px;
@@ -584,7 +584,7 @@ input:-webkit-autofill:focus {
 
 #resume-wrapper h1,
 #resume-wrapper li {
-  color: #1d3557;
+  color: #142842;
 }
 
 #resume-wrapper div {
