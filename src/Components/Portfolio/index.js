@@ -4,23 +4,6 @@ import Project from "../Project";
 const Portfolio = () => {
   const project = [
     {
-      nameOfClass: "recent",
-      title: "Locum",
-      stack: "MERN",
-      image_url: "https://imgpile.com/images/RpTFz8.png",
-      image_alt: "Preview image of the Locum website",
-      github_link: "https://github.com/SCScbc-Projects2022/project-three",
-      deployed_link: "https://locum-staffing.herokuapp.com/",
-    },
-    {
-      title: "Petters",
-      stack: "MVC",
-      image_url: "https://imgpile.com/images/RK0ExF.png",
-      image_alt: "Preview image of the MVC Petters Social website",
-      github_link: "https://github.com/csabbah/interactive-proj2-petters",
-      deployed_link: "https://mvc-petters-social.herokuapp.com/",
-    },
-    {
       title: "Budget Tracker",
       stack: "PWA",
       image_url: "https://imgpile.com/images/Rzd1ic.png",
