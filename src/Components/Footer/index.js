@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 const Footer = () => {
   return (
@@ -6,7 +6,7 @@ const Footer = () => {
       <hr />
       <div id="footer-wrapper">
         <a
-          href="https://github.com/csabbah"
+          href="https://github.com/FalconView"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -17,7 +17,7 @@ const Footer = () => {
           />
         </a>
         <a
-          href="https://www.linkedin.com/in/carlos-sabbah-12118916b/"
+          href="https://www.linkedin.com/in/feroz-zargar-33b51537/"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -28,7 +28,7 @@ const Footer = () => {
           />
         </a>
         <a
-          href="https://www.instagram.com/carlos_sabbah/"
+          href="https://www.instagram.com/ferozargar/"
           target="_blank"
           rel="noopener noreferrer"
         >
